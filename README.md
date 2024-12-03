@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @ayabulela12
-- 👀 I’m interested in Systems Developer...
-- 🌱 I’m currently learning Front end development...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Ayabulela Mbodla
+🎯 Web Developer | Mobile App Developer | Digital Creator 📍 Based in Cape Town, South Africa
 
-<!---
-ayabulela12/ayabulela12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 About Me
+Passionate about solving real-world problems with technology. My expertise lies in web development, mobile app development, and creating meaningful digital content. Whether it's building robust apps, designing user-friendly websites, or sharing knowledge, I thrive on creativity and innovation.
+🛠️ Tech Stack
+* Programming & Scripting: JavaScript (React, React Native), Dart (Flutter), HTML, CSS
+* Frameworks & Libraries: Ionic, Node.js, Express
+* Databases: Firebase, MongoDB, MySQL
+* Tools: Git, Visual Studio Code, Xcode, Android Studio
+* Other Skills: WordPress, SEO, ASO, Digital Marketing
+
+🌟 My Work Highlights
+* 📱 Mobile Apps: Designed and developed apps focusing on user-friendly interfaces and innovative solutions for everyday challenges.
+* 🌐 Web Development: Built responsive websites and custom solutions for clients, integrating the latest technologies.
+* 🎥 Content Creation: Sharing tech tips and tutorials on YouTube, including WordPress hacks, development guides, and personal finance strategies.
