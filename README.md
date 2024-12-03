@@ -14,3 +14,15 @@ Passionate about solving real-world problems with technology. My expertise lies 
 * 📱 Mobile Apps: Designed and developed apps focusing on user-friendly interfaces and innovative solutions for everyday challenges.
 * 🌐 Web Development: Built responsive websites and custom solutions for clients, integrating the latest technologies.
 * 🎥 Content Creation: Sharing tech tips and tutorials on YouTube, including WordPress hacks, development guides, and personal finance strategies.
+
+💬 Connect with Me
+* 🌍 Portfolio Website
+* 💼 LinkedIn
+* 📹 YouTube
+
+✨ Fun Facts
+* 🛠️ Currently improving my Flutter and Dart skills for dynamic app development.
+* 📚 Exploring emotional intelligence and its impact on teamwork and communication.
+* 🎯 On a mission to create solutions that empower individuals and communities.
+
+Feel free to tweak this as you like, and let me know if you'd like more suggestions! 🚀
