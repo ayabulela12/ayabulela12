@@ -25,4 +25,3 @@ Passionate about solving real-world problems with technology. My expertise lies 
 * 📚 Exploring emotional intelligence and its impact on teamwork and communication.
 * 🎯 On a mission to create solutions that empower individuals and communities.
 
-Feel free to tweak this as you like, and let me know if you'd like more suggestions! 🚀
