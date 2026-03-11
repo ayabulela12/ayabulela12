@@ -1,5 +1,5 @@
 👋 Hi, I'm Ayabulela Mbodla
-🎯 Web Developer | Mobile App Developer | Digital Creator 📍 Based in Cape Town, South Africa
+🎯 Web Developer | Mobile App Developer | Digital Creator
 
 🚀 About Me
 Passionate about solving real-world problems with technology. My expertise lies in web development, mobile app development, and creating meaningful digital content. Whether it's building robust apps, designing user-friendly websites, or sharing knowledge, I thrive on creativity and innovation.
