@@ -1,27 +1,43 @@
-👋 Hi, I'm Ayabulela Mbodla
-🎯 Web Developer | Mobile App Developer | Digital Creator
+👋 Hi, I'm Ayabulela Mbodla  
+💻 Systems Developer | Backend-Focused | Java & Spring Boot  
 
-🚀 About Me
-Passionate about solving real-world problems with technology. My expertise lies in web development, mobile app development, and creating meaningful digital content. Whether it's building robust apps, designing user-friendly websites, or sharing knowledge, I thrive on creativity and innovation.
-🛠️ Tech Stack
-* Programming & Scripting: JavaScript (React, React Native), Dart (Flutter), HTML, CSS
-* Frameworks & Libraries: Ionic, Node.js, Express
-* Databases: Firebase, MongoDB, MySQL
-* Tools: Git, Visual Studio Code, Xcode, Android Studio
-* Other Skills: WordPress, SEO, ASO, Digital Marketing
+🚀 About Me  
+I’m a systems-focused developer passionate about building backend solutions that solve real business problems. I have experience developing and maintaining real-world applications, including dashboards and mobile apps, and I’m currently specializing in Java and Spring Boot to design scalable APIs and internal systems.
 
-🌟 My Work Highlights
-* 📱 Mobile Apps: Designed and developed apps focusing on user-friendly interfaces and innovative solutions for everyday challenges.
-* 🌐 Web Development: Built responsive websites and custom solutions for clients, integrating the latest technologies.
-* 🎥 Content Creation: Sharing tech tips and tutorials on YouTube, including WordPress hacks, development guides, and personal finance strategies.
+I enjoy working on business tools that improve workflows, reduce manual processes, and create efficient systems. I use AI-assisted tools to speed up development where appropriate, allowing me to focus more on system design and backend logic.
 
-💬 Connect with Me
-* 🌍 Portfolio Website
-* 💼 LinkedIn
-* 📹 YouTube
+🛠️ Tech Stack  
+- Languages: JavaScript, Java, SQL  
+- Frameworks: React, React Native, Spring Boot (learning)  
+- Backend & APIs: Node.js, Express, REST APIs  
+- Databases: MySQL, MongoDB, Firebase, Supabase  
+- Tools: Git, Postman, VS Code  
+- Practices: Clean Code, API Design, Problem Solving  
 
-✨ Fun Facts
-* 🛠️ Currently improving my Flutter and Dart skills for dynamic app development.
-* 📚 Exploring emotional intelligence and its impact on teamwork and communication.
-* 🎯 On a mission to create solutions that empower individuals and communities.
+📌 Current Focus  
+- Building an Employee Management System (EMS)  
+- Learning backend architecture and Domain-Driven Design  
+- Strengthening API development with Java & Spring Boot  
 
+🌟 Projects  
+- **Employee Management System (EMS)**  
+  A system designed to automate leave requests, approvals, and internal workflows for small businesses.  
+
+- **Venue Booking Dashboard**  
+  A dashboard system for managing bookings, built using Supabase and AI-assisted UI development tools.  
+
+- **Radio Station Dashboard & Mobile App**  
+  Built and maintained a system used for managing content and operations.  
+
+💡 What I Bring  
+- Strong problem-solving mindset  
+- Ability to take initiative and own projects  
+- Fast learner, especially with new tools and technologies  
+- Focus on building systems, not just interfaces  
+
+💬 Connect with Me  
+- LinkedIn  
+- Portfolio (coming soon)  
+
+✨ Growth Mindset  
+Currently focused on becoming a strong backend and systems developer by building real-world projects and continuously improving my understanding of software architecture.
