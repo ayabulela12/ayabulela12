@@ -1,4 +1,4 @@
-Fullstack Developer · React, Next.js, Flutter & Supabase · Cape Town · Building complete products from UI to database · Open to full-time roles
+Fullstack Developer · React, Next.js, Flutter & Supabase · Cape Town · Building complete products from UI to database 
 
 ## Hi, I'm Ayabulela Mbodla
 
@@ -15,7 +15,7 @@ React · Next.js · Flutter · Supabase · Firebase · WordPress · JavaScript �
 AI-assisted development tools · No-code platforms · Project direction & client management · Facilitating workshops
 
 **Looking for:**
-Full-time fullstack or frontend roles · Remote or Cape Town · Open to freelance
+Full-time fullstack or frontend roles 
 
 📫 ayabulelambodla230@gmail.com
 🌐 aya-mbodla.vercel.app
